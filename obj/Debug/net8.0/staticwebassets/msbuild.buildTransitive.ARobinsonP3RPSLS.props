@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ARobinsonP3RPSLS.props" />
+</Project>
