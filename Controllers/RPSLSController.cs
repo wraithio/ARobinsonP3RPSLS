@@ -21,20 +21,15 @@ namespace ARobinsonP3RPSLS.Controllers
         }
 
         [HttpGet]
-        [Route("GoRPSLS/{userChoice}")]
+        [Route("GoRPSLS")]
 
-        public string GoRPSLS(string userChoice)
+        public string GoRPSLS()
         {
-            string selection = userChoice.ToLower();
             string[] choices = ["rock","paper","scissors","lizard","spock"];
             Random rng = new Random();
             int randomNum;
-            do
-            {
-                randomNum = rng.Next(0,5);
-            }
-            while(choices[randomNum] == selection);
-            return _rpslsServices.GoRPSLS(selection, choices[randomNum]);
+                randomNum = rng.Next(1,5);
+            return _rpslsServices.GoRPSLS(choices[randomNum]);
            
             
             
