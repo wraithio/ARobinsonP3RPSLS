@@ -7,9 +7,12 @@ namespace ARobinsonP3RPSLS.Services
 {
     public class RPSLSServices
     {
-        public string GoRPSLS(string cpuChoice)
+        public string GoRPSLS()
         {
-                switch(cpuChoice)
+            string[] choices = ["rock","paper","scissors","lizard","spock"];
+            Random rng = new Random();
+            int randomNum = rng.Next(1,5);
+                switch(choices[randomNum])
                 {
                     case "paper":
                         return "The CPU chose paper.";

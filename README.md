@@ -16,7 +16,7 @@ github [here](https://github.com/wraithio/ARobinsonP3RPSLS)
 3.Scissors
 4.Lizard
 5.Spock
-### Peer Review by: David Monterrsoa
+### Peer Review by: David Monterrosa
 > Overall the code seems to work as intended. You successfully met the design specifications of the challenge.
 Here are some minor things you could improve in my opinion:
 

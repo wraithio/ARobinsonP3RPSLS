@@ -25,14 +25,7 @@ namespace ARobinsonP3RPSLS.Controllers
 
         public string GoRPSLS()
         {
-            string[] choices = ["rock","paper","scissors","lizard","spock"];
-            Random rng = new Random();
-            int randomNum;
-                randomNum = rng.Next(1,5);
-            return _rpslsServices.GoRPSLS(choices[randomNum]);
-           
-            
-            
+            return _rpslsServices.GoRPSLS();     
         }
 
        
