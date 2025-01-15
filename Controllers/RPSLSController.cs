@@ -31,7 +31,7 @@ namespace ARobinsonP3RPSLS.Controllers
             int randomNum;
             do
             {
-                randomNum = rng.Next(1,6);
+                randomNum = rng.Next(0,5);
             }
             while(choices[randomNum] == selection);
             return _rpslsServices.GoRPSLS(selection, choices[randomNum]);

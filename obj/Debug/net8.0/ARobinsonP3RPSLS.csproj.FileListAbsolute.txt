@@ -30,3 +30,4 @@ C:\Users\aarmo\CodeStack\Level2\Week2\ARobinsonP3RPSLS\obj\Debug\net8.0\refint\A
 C:\Users\aarmo\CodeStack\Level2\Week2\ARobinsonP3RPSLS\obj\Debug\net8.0\ARobinsonP3RPSLS.pdb
 C:\Users\aarmo\CodeStack\Level2\Week2\ARobinsonP3RPSLS\obj\Debug\net8.0\ARobinsonP3RPSLS.genruntimeconfig.cache
 C:\Users\aarmo\CodeStack\Level2\Week2\ARobinsonP3RPSLS\obj\Debug\net8.0\ref\ARobinsonP3RPSLS.dll
+C:\Users\aarmo\CodeStack\Level2\Week2\ARobinsonP3RPSLS\obj\Debug\net8.0\ARobinsonP3RPSLS.sourcelink.json
