@@ -11,7 +11,7 @@ namespace ARobinsonP3RPSLS.Services
         {
             string[] choices = ["rock","paper","scissors","lizard","spock"];
             Random rng = new Random();
-            int randomNum = rng.Next(1,5);
+            int randomNum = rng.Next(5);
                 switch(choices[randomNum])
                 {
                     case "paper":
