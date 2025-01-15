@@ -9,7 +9,7 @@ Create the Prototype to your version of Rock, Paper, Scissors, Lizard Spock.
 Create the Endpoint that when called it will give you the CPU response.
 ---
 
-github [here](https://github.com/wraithio/ARobinsonP2All4OneAPI)
+github [here](https://github.com/wraithio/ARobinsonP3RPSLS)
 
 1.Rock
 2.Paper
