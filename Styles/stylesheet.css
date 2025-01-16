@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "Cinzel";
+    src: url(/Assets/Fonts/Cinzel-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Cinzel-Bold";
+    src: url(/Assets/Fonts/Cinzel-Bold.ttf);
+}
+
+h1,h2,h3,h4{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+h1{
+    font-size: 115px;
+}
+
+h2{
+    font-size: 64px;
+}
+
+b{
+    font-family: "Cinzel-Bold";
+}
+
+body{
+    font-family: "Cinzel", Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.container{
+    margin: 5rem;
+    max-width: 90%;
+}
+
+button{
+    color: white;
+    padding: .25rem 1rem;
+    border-radius: .5rem;
+    border: 4px white solid;
+    background-image: linear-gradient(to bottom right,crimson,cornsilk);
+    filter: drop-shadow(5px 5px 3px black);
+}
+
+button:hover{
+    background-image: linear-gradient(to bottom right,cornsilk,crimson);
+    color: black;
+    border: 4px black solid;
+}
+
+.titleCard{
+    margin: 4rem 0rem;
+    color: lightpink;
+}

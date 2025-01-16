@@ -1,5 +1,6 @@
 {
     "appService.preDeployTask": "publish-release",
     "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/54e7b0d6-707d-4f79-89b4-50cc8fc8ee50/resourceGroups/ProjectHost/providers/Microsoft.Web/sites/RPSLS"
+    "appService.defaultWebAppToDeploy": "/subscriptions/54e7b0d6-707d-4f79-89b4-50cc8fc8ee50/resourceGroups/ProjectHost/providers/Microsoft.Web/sites/RPSLS",
+    "liveServer.settings.port": 5501
 }
