@@ -12,6 +12,15 @@ builder.Services.AddScoped<RPSLSServices>();
 
 var app = builder.Build();
 
+builder.Services.AddCors(options => {
+    options.AddPolicy("AllowAll",
+    policy => {
+        policy.AllowAnyOrigin()     //allows request from any origin
+              .AllowAnyMethod()     //allows any http request (put,get,delete etc.)
+              .AllowAnyHeader();    //allows any headers
+    });
+});
+
 // Configure the HTTP request pipeline.
 // if (app.Environment.IsDevelopment())
 // {

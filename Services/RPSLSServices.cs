@@ -14,14 +14,16 @@ namespace ARobinsonP3RPSLS.Services
             int randomNum = rng.Next(5);
                 switch(choices[randomNum])
                 {
+                    case "rock":
+                        return "rock";
                     case "paper":
-                        return "The CPU chose paper.";
+                        return "paper";
                     case "scissors":
-                        return "The CPU chose scissors.";
+                        return "scissors";
                     case "lizard":
-                        return "The CPU chose lizard.";
+                        return "lizard";
                     case "spock":
-                        return "The CPU chose spock.";
+                        return "spock";
                     default:
                     break;
                 }
