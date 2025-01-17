@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week2/ARobinsonP3RPSLS/ARobinsonP3RPSLS.csproj": {}
+    "C:\\Users\\aarmo\\CodeStack\\Level2\\Week2\\ARobinsonP3RPSLS\\ARobinsonP3RPSLS.csproj": {}
   },
   "projects": {
-    "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week2/ARobinsonP3RPSLS/ARobinsonP3RPSLS.csproj": {
+    "C:\\Users\\aarmo\\CodeStack\\Level2\\Week2\\ARobinsonP3RPSLS\\ARobinsonP3RPSLS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week2/ARobinsonP3RPSLS/ARobinsonP3RPSLS.csproj",
+        "projectUniqueName": "C:\\Users\\aarmo\\CodeStack\\Level2\\Week2\\ARobinsonP3RPSLS\\ARobinsonP3RPSLS.csproj",
         "projectName": "ARobinsonP3RPSLS",
-        "projectPath": "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week2/ARobinsonP3RPSLS/ARobinsonP3RPSLS.csproj",
-        "packagesPath": "/Users/davidmonterrosa/.nuget/packages/",
-        "outputPath": "/Users/davidmonterrosa/Desktop/CodeStack/Lvl2/Week2/ARobinsonP3RPSLS/obj/",
+        "projectPath": "C:\\Users\\aarmo\\CodeStack\\Level2\\Week2\\ARobinsonP3RPSLS\\ARobinsonP3RPSLS.csproj",
+        "packagesPath": "C:\\Users\\aarmo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aarmo\\CodeStack\\Level2\\Week2\\ARobinsonP3RPSLS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/davidmonterrosa/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aarmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
